@@ -36,7 +36,7 @@ The following Excel functions and tools were used to build the dashboard:
 - Imported CSV data from Kaggle  
 - Formatted into tables with appropriate data types (currency, date, number, etc.)  
 
-![Raw Data](images/raw-data.jpg)
+![Raw Data](images/raw-data.jpg.jpeg)
 
 ---
 
