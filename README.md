@@ -44,7 +44,7 @@ The following Excel functions and tools were used to build the dashboard:
 - Applied `UNIQUE` & `SORT` to structure KPIs  
 - Used `COUNTIF` and `AVERAGEIF` for state, manufacturer, and mileage analysis  
 
-![Calculations](images/calculation.jpg)
+![Calculations](images/calculation.jpg.jpeg)
 
 ---
 
@@ -58,7 +58,7 @@ The following Excel functions and tools were used to build the dashboard:
   - Energy Type Analysis  
   - Top Distributors  
 
-![Dashboard](images/dashboard.jpg)
+![Dashboard](images/dashboard.jpg.jpeg)
 
 ---
 
@@ -68,6 +68,26 @@ The dashboard provides a **comprehensive view of used car sales trends** in the 
 ---
 
 ## 📂 Project Structure  
+📁 Used-Car-Sales-Dashboard
+┣ 📄 README.md
+┣ 📊 Used_Car_Sales_Dashboard.xlsx
+┣ 📄 Project_Description.pdf
+┗ 📁 images
+┣ raw-data.jpg
+┣ calculation.jpg
+┗ dashboard.jpg
+
+---
+
+## 🤝 Contribution  
+Contributions, suggestions, and feedback are welcome!  
+Feel free to fork the repository and submit pull requests.  
+
+---
+
+## 📧 Contact  
+Author: **Shahid Abbas**  
+Email: [shahidabbas2104514@gmail.com](mailto:shahidabbas2104514@gmail.com)  
 
 
 
