@@ -4,6 +4,8 @@
 This project presents an **interactive Excel dashboard** that analyzes **used car sales in the United States**.  
 The dashboard highlights important **key performance indicators (KPIs)** to provide insights into how different factors influence sales trends.  
 
+---
+
 ## 🎯 Objectives  
 - Collected and cleaned raw dataset from **Kaggle**  
 - Designed a **dynamic Excel dashboard** for data analysis  
@@ -13,6 +15,8 @@ The dashboard highlights important **key performance indicators (KPIs)** to prov
   - Energy Type  
   - Mileage  
   - Top Distributor  
+
+---
 
 ## ⚙️ Features & Functions Used  
 The following Excel functions and tools were used to build the dashboard:  
@@ -24,24 +28,23 @@ The following Excel functions and tools were used to build the dashboard:
 - `IF` – Logical conditions  
 - **Data Validation** – Ensure clean and structured inputs  
 
+---
+
 ## 🛠️ Steps Involved  
+
 1. **Data Import & Formatting**  
    - Imported CSV data from Kaggle  
    - Formatted into tables with appropriate data types (currency, date, number, etc.)  
 
-2. **KPI Identification**  
-   - Selected KPIs: Manufacturer, Location, Energy Type, Distributor  
-   - Applied `UNIQUE` & `SORT` to structure categories  
+   ![Raw Data](images/raw-data.jpg)
 
-3. **Data Analysis**  
-   - Used `COUNTIF` and `AVERAGEIF` to analyze manufacturers, states, and mileage  
-   - Measured average purchase prices & sales counts  
+2. **KPI Identification & Calculations**  
+   - Applied `UNIQUE` & `SORT` to structure KPIs  
+   - Used `COUNTIF` and `AVERAGEIF` for state, manufacturer, and mileage analysis  
 
-4. **Distributor Insights**  
-   - Identified top distributors using `UNIQUE` & `SORT`  
-   - Counted distributor sales by manufacturer, state, and energy type  
+   ![Calculations](images/calculation.jpg)
 
-5. **Dashboard Creation**  
+3. **Dashboard Creation**  
    - Designed an **interactive Excel dashboard**  
    - Final KPIs included:  
      - Sales Count  
@@ -50,6 +53,29 @@ The following Excel functions and tools were used to build the dashboard:
      - State-wise Sales  
      - Energy Type Analysis  
      - Top Distributors  
+
+   ![Dashboard](images/dashboard.jpg)
+
+---
+
+## 📊 Final Dashboard  
+The dashboard provides a **comprehensive view of used car sales trends** in the U.S., enabling quick insights for decision-making.  
+
+---
+
+## 📂 Project Structure  
+
+---
+
+## 🤝 Contribution  
+Contributions, suggestions, and feedback are welcome!  
+Feel free to fork the repository and submit pull requests.  
+
+---
+
+## 📧 Contact  
+Author: **Shahid Abbas**  
+Email: [shahidabbas2104514@gmail.com](mailto:shahidabbas2104514@gmail.com)  
 
 
 
