@@ -32,29 +32,33 @@ The following Excel functions and tools were used to build the dashboard:
 
 ## 🛠️ Steps Involved  
 
-1. **Data Import & Formatting**  
-   - Imported CSV data from Kaggle  
-   - Formatted into tables with appropriate data types (currency, date, number, etc.)  
+### 1. Data Import & Formatting  
+- Imported CSV data from Kaggle  
+- Formatted into tables with appropriate data types (currency, date, number, etc.)  
 
-   ![Raw Data](images/raw-data.jpg)
+![Raw Data](images/raw-data.jpg)
 
-2. **KPI Identification & Calculations**  
-   - Applied `UNIQUE` & `SORT` to structure KPIs  
-   - Used `COUNTIF` and `AVERAGEIF` for state, manufacturer, and mileage analysis  
+---
 
-   ![Calculations](images/calculation.jpg)
+### 2. KPI Identification & Calculations  
+- Applied `UNIQUE` & `SORT` to structure KPIs  
+- Used `COUNTIF` and `AVERAGEIF` for state, manufacturer, and mileage analysis  
 
-3. **Dashboard Creation**  
-   - Designed an **interactive Excel dashboard**  
-   - Final KPIs included:  
-     - Sales Count  
-     - Average Purchase Price  
-     - Manufacturer Trends  
-     - State-wise Sales  
-     - Energy Type Analysis  
-     - Top Distributors  
+![Calculations](images/calculation.jpg)
 
-   ![Dashboard](images/dashboard.jpg)
+---
+
+### 3. Dashboard Creation  
+- Designed an **interactive Excel dashboard**  
+- Final KPIs included:  
+  - Sales Count  
+  - Average Purchase Price  
+  - Manufacturer Trends  
+  - State-wise Sales  
+  - Energy Type Analysis  
+  - Top Distributors  
+
+![Dashboard](images/dashboard.jpg)
 
 ---
 
@@ -65,17 +69,6 @@ The dashboard provides a **comprehensive view of used car sales trends** in the 
 
 ## 📂 Project Structure  
 
----
-
-## 🤝 Contribution  
-Contributions, suggestions, and feedback are welcome!  
-Feel free to fork the repository and submit pull requests.  
-
----
-
-## 📧 Contact  
-Author: **Shahid Abbas**  
-Email: [shahidabbas2104514@gmail.com](mailto:shahidabbas2104514@gmail.com)  
 
 
 
